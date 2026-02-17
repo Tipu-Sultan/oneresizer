@@ -250,6 +250,9 @@ export default function Home() {
 
       {/* ── Result Card ───────────────────────────────────── */}
       <ResultCard result={result} />
+      <footer>
+        <h5>Design & Developer By : Tipu Sultan</h5>
+      </footer>
     </main>
   );
 }
