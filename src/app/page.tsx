@@ -168,11 +168,12 @@ export default function Home() {
                 WebkitTextFillColor: "transparent",
               }}
             >
-              Image Resizer
+              One Resizer
             </h1>
             <p className="font-mono text-xs text-[#5a5a72] mt-0.5">
               resize · compress · convert · download
             </p>
+            <p>Design & Developer By : Tipu Sultan</p>
           </div>
         </div>
         <div className="font-mono text-[10px] tracking-[1px] uppercase px-3.5 py-1.5 rounded-full bg-[rgba(124,111,255,0.12)] border border-[rgba(124,111,255,0.3)] text-[#7c6fff]">
