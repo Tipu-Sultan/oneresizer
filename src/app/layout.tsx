@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Image Resizer",
+  title: "One Resize - Designed & Developed by Tipu Sultan",
   description: "Resize, compress, convert images — 100% client-side",
 };
 
